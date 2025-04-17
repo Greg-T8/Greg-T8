@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Greg-T8/LearningCSS)
+
+
 <!--
 **Greg-T8/Greg-T8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
