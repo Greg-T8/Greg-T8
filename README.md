@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greg-T8&show=commits&show=commits)](https://github.com/anuraghazra/github-readme-stats)
+[![Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greg-T8&hide=stars,prs,issues,contribs&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
