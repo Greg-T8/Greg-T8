@@ -2,7 +2,7 @@
 
 [![Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greg-T8&hide=stars,prs,issues,contribs&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-T8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-T8&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
