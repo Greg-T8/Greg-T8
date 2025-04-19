@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-[![Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greg-T8&hide=stars,prs,issues,contribs)]
+[Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greg-T8&show=commits)
 
 <!--
 **Greg-T8/Greg-T8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
