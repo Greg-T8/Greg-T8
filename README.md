@@ -21,7 +21,7 @@ Check out a few of my projects:
 - [Learning CSS](https://github.com/Greg-T8/LearningCSS)
 - [Learning Go](https://github.com/Greg-T8/LearningGo)
 - [Learning Python](https://github.com/Greg-T8/LearningPython)
-- [Learning SQL](https://github.com/Greg-T8/LearningMySQL)
+- [Learning SQL](https://github.com/Greg-T8/LearningSQL)
 
 **Systems**
 - [Learning Terraform](https://github.com/Greg-T8/LearningTerraform)
