@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 
 
-By day, I am an IT systems engineer where my expertise lies in Microsoft Azure, M365, and PowerShell. Outside of work, I enjoy learning about programming languages, cybersecurity, and cloud technologies. 
+By day, I am an IT systems engineer who specializes in Microsoft Azure, M365, and PowerShell. Outside of work, I enjoy learning about programming languages, cybersecurity, and cloud technologies. 
 
 I use this page to document document all the things I am learning about. Think of it as my public notebook.
 
