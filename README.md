@@ -16,7 +16,11 @@ I use this page to document document all the things I am learning about. Think o
         <li><a href="https://github.com/Greg-T8/LearningC-CPP">C and C++</a></li>
         <li><a href="https://github.com/Greg-T8/LearningJavaScript">JavaScript</a></li>
         <li><a href="https://github.com/Greg-T8/LearningCSS">CSS</a></li>
-        <li><a href="https://github.com/Greg-T8/LearningGo">Go</a></li>
+        <li>
+          <a href="https://github.com/Greg-T8/LearningGo">Go</a>
+          <img src="https://img.shields.io/github/commit-activity/m/Greg-T8/LearningGo" alt="GitHub commit activity" style="vertical-align:middle;"/>
+          <img src="https://img.shields.io/github/last-commit/Greg-T8/LearningGo" alt="GitHub last commit" style="vertical-align:middle;"/>
+        </li>
         <li><a href="https://github.com/Greg-T8/LearningPython">Python</a></li>
         <li><a href="https://github.com/Greg-T8/LearningSQL">SQL</a></li>
       </ul>
