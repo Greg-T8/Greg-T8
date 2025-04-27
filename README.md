@@ -40,7 +40,10 @@ I use this page to document document all the things I am learning about. Think o
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/Greg-T8/LearningSQL">SQL</a></td>
-    <td></td>
+    <td valign="top">
+      <img src="https://img.shields.io/github/commit-activity/m/Greg-T8/LearningSQL" alt="GitHub commit activity" style="vertical-align:middle;"/>
+      <img src="https://img.shields.io/github/last-commit/Greg-T8/LearningSQL" alt="GitHub last commit" style="vertical-align:middle;"/>
+    </td>
   </tr>
 </table>
 
