@@ -4,10 +4,11 @@ By day, I am an IT systems engineer who specializes in Microsoft Azure, M365, an
 
 I use this page to document document all the things I am learning about. Think of it as my public notebook.
 
+**Programming Languages:**
 <!-- Languages Table -->
 <table>
   <tr>
-    <th><strong>Languages</strong></th>
+    <th><strong>Language</strong></th>
     <th><strong>Activity</strong></th>
   </tr>
   <tr>
@@ -43,14 +44,21 @@ I use this page to document document all the things I am learning about. Think o
   </tr>
 </table>
 
+
+**Cloud & Security:**
+
 <!-- Systems Table -->
 <table>
   <tr>
-    <th><strong>Systems</strong></th>
+    <th><strong>System</strong></th>
+    <th><strong>Activity</strong></th>
   </tr>
   <tr>
     <td valign="top">
       <a href="https://github.com/Greg-T8/LearningTerraform">Terraform</a>
     </td>
+    <td valign="top">
+      <img src="https://img.shields.io/github/commit-activity/m/Greg-T8/LearningTerraform" alt="GitHub commit activity" style="vertical-align:middle;"/>
+      <img src="https://img.shields.io/github/last-commit/Greg-T8/LearningTerraform" alt="GitHub last commit" style="vertical-align:middle;"/>
   </tr>
 </table>
