@@ -1,8 +1,8 @@
 # Welcome to my GitHub profile! 
 
-As a professional, I am an IT systems engineer who specializes in Microsoft Azure, M365, and PowerShell. Outside of work, I enjoy diving into programming languages, cybersecurity, and cloud technologies. 
+I am an IT systems engineer who specializes in Microsoft Azure, M365, and PowerShell. Outside of work, I enjoy diving into programming languages, cybersecurity, and cloud technologies. 
 
-I use my GitHub profile to document document all the things I am learning about. Think of it as a public notebook. Please have a look around!
+I use my GitHub profile as a public notebook to document document all the cool things I am learning about. Feel free to have a look around!
 
 **Programming Languages:**
 <!-- Languages Table -->
