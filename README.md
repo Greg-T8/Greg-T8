@@ -13,7 +13,10 @@ I use my GitHub profile to document document all the things I am learning about.
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/Greg-T8/LearningDotNet">C#, F#, and .NET</a></td>
-    <td></td>
+    <td>
+      <img src="https://img.shields.io/github/commit-activity/m/Greg-T8/LearningDotNet" alt="GitHub commit activity" style="vertical-align:middle;"/>
+      <img src="https://img.shields.io/github/last-commit/Greg-T8/LearningDotNet" alt="GitHub last commit" style="vertical-align:middle;"/>
+    </td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/Greg-T8/LearningC-CPP">C and C++</a></td>
