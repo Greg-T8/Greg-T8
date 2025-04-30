@@ -20,15 +20,24 @@ I use my GitHub profile as a public notebook to document document all the cool t
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/Greg-T8/LearningC-CPP">C and C++</a></td>
-    <td></td>
+    <td>
+      <img src="https://img.shields.io/github/commit-activity/m/Greg-T8/LearningC-CPP" alt="GitHub commit activity" style="vertical-align:middle;"/>
+      <img src="https://img.shields.io/github/last-commit/Greg-T8/LearningC-CPP" alt="GitHub last commit" style="vertical-align:middle;"/>
+    </td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/Greg-T8/LearningJavaScript">JavaScript</a></td>
-    <td></td>
+    <td>
+      <img src="https://img.shields.io/github/commit-activity/m/Greg-T8/LearningJavaScript" alt="GitHub commit activity" style="vertical-align:middle;"/>
+      <img src="https://img.shields.io/github/last-commit/Greg-T8/LearningJavaScript" alt="GitHub last commit" style="vertical-align:middle;"/>
+    </td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/Greg-T8/LearningCSS">CSS</a></td>
-    <td></td>
+    <td>
+      <img src="https://img.shields.io/github/commit-activity/m/Greg-T8/LearningCSS" alt="GitHub commit activity" style="vertical-align:middle;"/>
+      <img src="https://img.shields.io/github/last-commit/Greg-T8/LearningCSS" alt="GitHub last commit" style="vertical-align:middle;"/>
+    </td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/Greg-T8/LearningGo">Go</a></td>
@@ -39,7 +48,10 @@ I use my GitHub profile as a public notebook to document document all the cool t
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/Greg-T8/LearningPython">Python</a></td>
-    <td></td>
+    <td>
+      <img src="https://img.shields.io/github/commit-activity/m/Greg-T8/LearningPython" alt="GitHub commit activity" style="vertical-align:middle;"/>
+      <img src="https://img.shields.io/github/last-commit/Greg-T8/LearningPython" alt="GitHub last commit" style="vertical-align:middle;"/>
+    </td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/Greg-T8/LearningSQL">SQL</a></td>
