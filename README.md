@@ -86,4 +86,11 @@ I use my GitHub profile as a public notebook to document document all the cool t
       <img src="https://img.shields.io/github/last-commit/Greg-T8/LearningKubernetes" alt="GitHub last commit" style="vertical-align:middle;"/>
     </td>
   </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/Greg-T8/LearningOffsec">Offensive Security</a></td>
+    <td valign="top">
+      <img src="https://img.shields.io/github/commit-activity/m/Greg-T8/LearningOffsec" alt="GitHub commit activity" style="vertical-align:middle;"/>
+    <img src="https://img.shields.io/github/last-commit/Greg-T8/LearningOffsec" alt="GitHub last commit" style="vertical-align:middle;"/>
+</td>
+</tr>
 </table>
