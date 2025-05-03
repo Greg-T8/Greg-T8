@@ -11,7 +11,7 @@ I use my GitHub profile as a public notebook to document document all the cool t
     <th><strong>Language</strong></th>
     <th><strong>Last Activity</strong></th>
     <th><strong>Rate</strong></th>
-    <th><strong>Total</strong></t
+    <th><strong>Total</strong></th>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/Greg-T8/LearningDotNet">C#, F#, and .NET</a></td>
