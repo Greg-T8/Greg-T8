@@ -69,6 +69,12 @@ I use my GitHub profile as a public notebook to document document all the cool t
     <th><strong>Total</strong></t
   </tr>
   <tr>
+    <td valign="top"><a href="https://github.com/Greg-T8/LearningAzure">Azure</a></td>
+    <td><img src="https://img.shields.io/github/last-commit/Greg-T8/LearningAzure?label" alt="GitHub last commit" style="vertical-align:middle;"/></td>
+    <td><img src="https://img.shields.io/github/commit-activity/m/Greg-T8/LearningAzure?label" alt="GitHub commit activity" style="vertical-align:middle;"/></td>
+    <td><img src="https://img.shields.io/github/commit-activity/t/Greg-T8/LearningAzure?label" alt="GitHub total commits" style="vertical-align:middle;"/></td>
+  </tr>
+  <tr>
     <td valign="top"><a href="https://github.com/Greg-T8/LearningTerraform">Terraform</a></td>
     <td><img src="https://img.shields.io/github/last-commit/Greg-T8/LearningTerraform?label" alt="GitHub last commit" style="vertical-align:middle;"/></td>
     <td><img src="https://img.shields.io/github/commit-activity/m/Greg-T8/LearningTerraform?label" alt="GitHub commit activity" style="vertical-align:middle;"/></td>
