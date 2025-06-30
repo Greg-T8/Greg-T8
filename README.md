@@ -2,7 +2,7 @@
 
 I am an IT systems engineer who specializes in Microsoft Azure, M365, and PowerShell. Outside of work, I enjoy diving into programming languages, cybersecurity, and cloud technologies. 
 
-I use my GitHub profile as a public notebook to document document all the cool things I am learning about. Feel free to have a look around!
+I use my GitHub profile as a public notebook to document document all the fun things I am learning about. Feel free to have a look around!
 
 **Programming Languages:**
 <!-- Languages Table -->
@@ -73,6 +73,12 @@ I use my GitHub profile as a public notebook to document document all the cool t
     <td><img src="https://img.shields.io/github/last-commit/Greg-T8/LearningAzure?label" alt="GitHub last commit" style="vertical-align:middle;"/></td>
     <td><img src="https://img.shields.io/github/commit-activity/m/Greg-T8/LearningAzure?label" alt="GitHub commit activity" style="vertical-align:middle;"/></td>
     <td><img src="https://img.shields.io/github/commit-activity/t/Greg-T8/LearningAzure?label" alt="GitHub total commits" style="vertical-align:middle;"/></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/Greg-T8/LearningAWS">AWS</a></td>
+    <td><img src="https://img.shields.io/github/last-commit/Greg-T8/LearningAWS?label" alt="GitHub last commit" style="vertical-align:middle;"/></td>
+    <td><img src="https://img.shields.io/github/commit-activity/m/Greg-T8/LearningAWS?label" alt="GitHub commit activity" style="vertical-align:middle;"/></td>
+    <td><img src="https://img.shields.io/github/commit-activity/t/Greg-T8/LearningAWS?label" alt="GitHub total commits" style="vertical-align:middle;"/></td>
   </tr>
   <tr>
     <td valign="top"><a href="https://github.com/Greg-T8/LearningTerraform">Terraform</a></td>
