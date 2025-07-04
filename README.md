@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 
 
-I am an IT systems engineer who specializes in Microsoft Azure, M365, and PowerShell. Outside of work, I enjoy diving into programming languages, cybersecurity, and cloud technologies. 
+I am an IT engineer who specializes in Microsoft Azure, M365, and PowerShell. Outside of work, I enjoy diving into programming languages, cybersecurity, and cloud technologies. 
 
 I use my GitHub profile to document all the fun stuff I`m learning about. Each topic below takes you to a repository where I share my notes on the books I'm reading and the areas I'm exploring. Feel free to have a look around!
 
@@ -97,5 +97,11 @@ I use my GitHub profile to document all the fun stuff I`m learning about. Each t
     <td><img src="https://img.shields.io/github/last-commit/Greg-T8/LearningOffsec?label" alt="GitHub last commit" style="vertical-align:middle;"/></td>
     <td><img src="https://img.shields.io/github/commit-activity/m/Greg-T8/LearningOffsec?label" alt="GitHub commit activity" style="vertical-align:middle;"/></td>
     <td><img src="https://img.shields.io/github/commit-activity/t/Greg-T8/LearningOffsec?label" alt="GitHub total commits" style="vertical-align:middle;"/></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/Greg-T8/LearningFabric">Microsoft Fabric</a></td>
+    <td><img src="https://img.shields.io/github/last-commit/Greg-T8/LearningFabric?label" alt="GitHub last commit" style="vertical-align:middle;"/></td>
+    <td><img src="https://img.shields.io/github/commit-activity/m/Greg-T8/LearningFabric?label" alt="GitHub commit activity" style="vertical-align:middle;"/></td>
+    <td><img src="https://img.shields.io/github/commit-activity/t/Greg-T8/LearningFabric?label" alt="GitHub total commits" style="vertical-align:middle;"/></td>
   </tr>
 </table>
