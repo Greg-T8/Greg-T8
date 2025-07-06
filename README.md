@@ -2,7 +2,7 @@
 
 I am an IT engineer who specializes in Microsoft Azure, M365, and PowerShell. Outside of work, I enjoy diving into programming languages, cybersecurity, and cloud technologies. 
 
-I use my GitHub profile to document all the fun stuff I`m learning about. Each topic below takes you to a repository where I share my notes on the books I'm reading and the areas I'm exploring. Feel free to have a look around!
+I use my GitHub profile to document all the interesting things I'm learning about. Visit the links below to view my learning progress on each topic. 
 
 **Programming Languages:**
 <!-- Languages Table -->
