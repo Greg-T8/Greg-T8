@@ -105,7 +105,7 @@ I use my GitHub profile to document all the interesting things I'm learning abou
     <td><img src="https://img.shields.io/github/commit-activity/t/Greg-T8/LearningFabric?label" alt="GitHub total commits" style="vertical-align:middle;"/></td>
   </tr>
     <tr>
-    <td valign="top"><a href="https://github.com/Greg-T8/LearningFabric">Identity</a></td>
+    <td valign="top"><a href="https://github.com/Greg-T8/Identity">Identity</a></td>
     <td><img src="https://img.shields.io/github/last-commit/Greg-T8/Identity?label" alt="GitHub last commit" style="vertical-align:middle;"/></td>
     <td><img src="https://img.shields.io/github/commit-activity/m/Greg-T8/Identity?label" alt="GitHub commit activity" style="vertical-align:middle;"/></td>
     <td><img src="https://img.shields.io/github/commit-activity/t/Greg-T8/Identity?label" alt="GitHub total commits" style="vertical-align:middle;"/></td>
