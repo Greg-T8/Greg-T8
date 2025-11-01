@@ -6,4 +6,4 @@ Here are some things worth checking out in my GitHub profile:
 
 - 📚 [LearningAzure](https://github.com/Greg-T8/LearningAzure) - My systematic study strategy for Azure certs.
 - ⚙️ [Profiles](https://github.com/Greg-T8/Profiles) - My custom application configurations, including PowerShell and Neovim.
-- ⌨️ [Adv360-Pro-ZMK](https://github.com/Greg-T8/Adv360-Pro-ZMK) - My custom ZMK layout for the Kinesis Advantage 360 Pro ergonomic mechanical keyboard.
+- ⌨️ [Kinesis-Adv360-Pro](https://github.com/Greg-T8/Kinesis-Adv360Pro-ZMK) - My custom ZMK layout for the Kinesis Advantage 360 Pro ergonomic mechanical keyboard.
