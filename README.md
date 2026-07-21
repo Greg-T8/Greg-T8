@@ -4,6 +4,6 @@ I am a consultant who specializes in Microsoft cloud technologies, including Azu
 
 Here are some things worth checking out in my GitHub profile:
 
-- 📚 [LearningAzure](https://github.com/Greg-T8/LearningAzure) - My systematic study strategy for Azure certs.
-- ⚙️ [Profiles](https://github.com/Greg-T8/Profiles) - My custom application configurations, including PowerShell and Neovim.
-- ⌨️ [Kinesis-Adv360-Pro](https://github.com/Greg-T8/Kinesis-Adv360Pro-ZMK) - My custom ZMK layout for the Kinesis Advantage 360 Pro ergonomic mechanical keyboard.
+- 📚 [LearningAzure](https://github.com/Greg-T8/LearningAzure) - Systematic study strategy for Microsoft certs.
+- ⚙️ [Profiles](https://github.com/Greg-T8/Profiles) - Personal profile configurations, including PowerShell and Neovim.
+- ⌨️ [Kinesis-Adv360-Pro](https://github.com/Greg-T8/Kinesis-Adv360Pro-ZMK) - Custom keybind layout for the Kinesis Advantage 360 Pro ergonomic mechanical keyboard.
